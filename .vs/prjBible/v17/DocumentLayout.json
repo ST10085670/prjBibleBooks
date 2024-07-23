@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\prjBible\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB7ECF2-5B97-42DC-BC60-49D04FD62717}|TestBibleBooks\\TestBibleBooks.csproj|c:\\users\\lab_services_student\\source\\repos\\prjbible\\testbiblebooks\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB7ECF2-5B97-42DC-BC60-49D04FD62717}|TestBibleBooks\\TestBibleBooks.csproj|solutionrelative:testbiblebooks\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35090166-2499-4689-BCE6-C3ADC057811D}|prjBible\\prjBible.csproj|c:\\users\\lab_services_student\\source\\repos\\prjbible\\prjbible\\biblebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35090166-2499-4689-BCE6-C3ADC057811D}|prjBible\\prjBible.csproj|solutionrelative:prjbible\\biblebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35090166-2499-4689-BCE6-C3ADC057811D}|prjBible\\prjBible.csproj|c:\\users\\lab_services_student\\source\\repos\\prjbible\\prjbible\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35090166-2499-4689-BCE6-C3ADC057811D}|prjBible\\prjBible.csproj|solutionrelative:prjbible\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prjBible\\TestBibleBooks\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestBibleBooks\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prjBible\\TestBibleBooks\\UnitTest1.cs",
+              "RelativeToolTip": "TestBibleBooks\\UnitTest1.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:45:17.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BibleBooks.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prjBible\\prjBible\\BibleBooks.cs",
+              "RelativeDocumentMoniker": "prjBible\\BibleBooks.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prjBible\\prjBible\\BibleBooks.cs",
+              "RelativeToolTip": "prjBible\\BibleBooks.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:16:33.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prjBible\\prjBible\\Program.cs",
+              "RelativeDocumentMoniker": "prjBible\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prjBible\\prjBible\\Program.cs",
+              "RelativeToolTip": "prjBible\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:15:30.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

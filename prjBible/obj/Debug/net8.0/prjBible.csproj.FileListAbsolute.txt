@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\prjBible\prjBible\bin\Debug\net8.0\prjBible.exe
+C:\Users\lab_services_student\source\repos\prjBible\prjBible\bin\Debug\net8.0\prjBible.deps.json
+C:\Users\lab_services_student\source\repos\prjBible\prjBible\bin\Debug\net8.0\prjBible.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\prjBible\prjBible\bin\Debug\net8.0\prjBible.dll
+C:\Users\lab_services_student\source\repos\prjBible\prjBible\bin\Debug\net8.0\prjBible.pdb
+C:\Users\lab_services_student\source\repos\prjBible\prjBible\obj\Debug\net8.0\prjBible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\prjBible\prjBible\obj\Debug\net8.0\prjBible.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\prjBible\prjBible\obj\Debug\net8.0\prjBible.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\prjBible\prjBible\obj\Debug\net8.0\prjBible.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\prjBible\prjBible\obj\Debug\net8.0\prjBible.dll
+C:\Users\lab_services_student\source\repos\prjBible\prjBible\obj\Debug\net8.0\refint\prjBible.dll
+C:\Users\lab_services_student\source\repos\prjBible\prjBible\obj\Debug\net8.0\prjBible.pdb
+C:\Users\lab_services_student\source\repos\prjBible\prjBible\obj\Debug\net8.0\prjBible.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\prjBible\prjBible\obj\Debug\net8.0\ref\prjBible.dll
