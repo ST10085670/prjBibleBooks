@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3c2j/wA1CmU=",
+  "dgSpecHash": "Sm4SgwLvRlQ0l2+t8gstGjroQd57IihVh882bXXX+FoipiALojwaMG4YQff9jt+z6dzzrT+JtT4YpmglD+I5nA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lab_services_student\\source\\repos\\prjBible\\TestBibleBooks\\TestBibleBooks.csproj",
+  "projectFilePath": "C:\\Users\\lab_services_student\\Desktop\\POE\\prjBibleBooks\\TestBibleBooks\\TestBibleBooks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lab_services_student\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = prjBible
-build_property.ProjectDir = C:\Users\lab_services_student\source\repos\prjBible\prjBible\
+build_property.ProjectDir = C:\Users\lab_services_student\Desktop\POE\prjBibleBooks\prjBible\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
